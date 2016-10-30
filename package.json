@@ -1,6 +1,6 @@
 {
   "name": "dno",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "js desktop notifications (and little ramda experiment)",
   "main": "lib/index.js",
   "npm": {
