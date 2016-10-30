@@ -1,0 +1,32 @@
+{
+  "name": "strobj",
+  "version": "0.0.1",
+  "description": "js desktop notifications (and little ramda experiment)",
+  "main": "lib/index.js",
+  "npm": {
+    "esModules": true
+  },
+  "files": [
+    "src",
+    "lib",
+    "es"
+  ],
+  "scripts": {
+    "build": "nwb build",
+    "clean": "nwb clean",
+    "start": "nwb serve",
+    "test": "nwb test",
+    "test:watch": "nwb test --server",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2"
+  },
+  "devDependencies": {
+    "nwb": "0.12.x",
+    "ramda": "0.22.1"
+  },
+  "author": "absolutemininum",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/absoluteminimum/strobj.git"
+  }
+}
