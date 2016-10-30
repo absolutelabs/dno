@@ -1,5 +1,5 @@
 {
-  "name": "strobj",
+  "name": "dno",
   "version": "0.0.1",
   "description": "js desktop notifications (and little ramda experiment)",
   "main": "lib/index.js",
@@ -27,6 +27,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/absoluteminimum/strobj.git"
+    "url": "git+ssh://git@github.com/absoluteminimum/dno.git"
   }
 }
