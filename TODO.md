@@ -9,3 +9,6 @@ callbacks like onclick and settings
 
 notify func
 - [ ] pass in other props and set defaults
+
+ramda extensions:
+https://github.com/mediasuitenz/ramda-extended

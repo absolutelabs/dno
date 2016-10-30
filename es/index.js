@@ -2,8 +2,9 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-import R from 'ramda';
 import DR from './ramda.js';
+
+var R = DR.R;
 
 function isJSON(str) {
   try {

@@ -1,5 +1,6 @@
-import R from 'ramda'
 import DR from './ramda.js'
+
+const R = DR.R
 
 function isJSON(str) {
   try {

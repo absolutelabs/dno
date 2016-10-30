@@ -1,4 +1,3 @@
-// https://github.com/mediasuitenz/ramda-extended
 import R from 'ramda'
 
 function ramdaExtended(R) {
